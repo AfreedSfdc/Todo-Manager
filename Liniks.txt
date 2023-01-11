@@ -1,0 +1,10 @@
+Docs - https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/ref_jsapi_intro.htm
+UI - https://developer.salesforce.com/docs/component-library/overview/components
+SLDS - https://www.lightningdesignsystem.com/
+CSP - https://help.salesforce.com/s/articleView?id=sf.csp_trusted_sites.htm&type=5
+beer metadata - https://drive.google.com/drive/u/1/folders/1of0-oDUplTPozQuk_6jCiXiZIPQMbsbE
+
+https://www.linkedin.com/video/event/urn:li:ugcPost:7010663938929385473/
+https://dineshyadav.com/salesforce-spring-23-release-flow-top-new-features/
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/events_system.htm
+https://www.salesforceicons.com/
