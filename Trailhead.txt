@@ -1,1 +1,2 @@
 Community/Experience Cloud : https://trailhead.salesforce.com/users/danelange/trailmixes/community-experience-cloud
+identity trail : https://trailhead.salesforce.com/content/learn/trails/identity
